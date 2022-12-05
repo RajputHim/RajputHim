@@ -32,7 +32,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RajputHim&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajputHim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Himanshu's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajputhim&theme=react-dark)](https://github.com/Rajputhim/github-readme-activity-graph)
+<!-- [![Himanshu's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajputhim&theme=react-dark)](https://github.com/Rajputhim/github-readme-activity-graph) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RajputHim&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
