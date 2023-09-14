@@ -7,11 +7,10 @@
 
 - 💬 Ask me about **Java, MySQL, SpringBoot, HTML, CSS, JavaScript, ...**
 
-- 📫 How to reach me **Himanshu.amarsingh@gmail.com**
+- 📫 Email me at **Himanshu.amarsingh@gmail.com**
 
 - 📄 Resume link : [Download Resume](https://drive.google.com/file/d/1pXpeWDXOUTX9uaq0YW93n-ceyMdLTmJ5/view?usp=sharing)
 
-- ⚡ Fun fact : **I am a shy person at first meet😃**
 
 
 ## 🌐 Socials:
